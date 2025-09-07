@@ -1,0 +1,14 @@
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\bin\Debug\net8.0\BehaviorTreeApp.exe
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\bin\Debug\net8.0\BehaviorTreeApp.deps.json
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\bin\Debug\net8.0\BehaviorTreeApp.runtimeconfig.json
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\bin\Debug\net8.0\BehaviorTreeApp.dll
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\bin\Debug\net8.0\BehaviorTreeApp.pdb
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.AssemblyInfoInputs.cache
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.AssemblyInfo.cs
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.dll
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\refint\BehaviorTreeApp.dll
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.pdb
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\BehaviorTreeApp.genruntimeconfig.cache
+C:\Users\DELL NV2 PRO\Documents\GitHub\Taller---Programaci-n-Orientada-a-Objetos\BehaviorTreeApp\obj\Debug\net8.0\ref\BehaviorTreeApp.dll
